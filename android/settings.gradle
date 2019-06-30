@@ -1,0 +1,3 @@
+rootProject.name = 'selector_5385'
+
+include ':app'
